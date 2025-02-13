@@ -286,12 +286,6 @@ void WelcomeView::updateFonts()
     titleFont.setWeight(QFont::Bold);
     labelTitle->setFont(titleFont);
 
-    QFont panelTitleFont = font();
-    panelTitleFont.setPointSize(panelTitleFont.pointSize() + 2);
-    labelRecentItems->setFont(panelTitleFont);
-    labelSavedSessions->setFont(panelTitleFont);
-    labelHelp->setFont(panelTitleFont);
-
     QFont placeholderFont = font();
     placeholderFont.setPointSize(qRound(placeholderFont.pointSize() * 1.3));
     m_placeholderRecentItems->setFont(placeholderFont);
@@ -303,7 +297,7 @@ void WelcomeView::updateFonts()
 bool WelcomeView::updateLayout()
 {
     // Align labelHelp with labelRecentItems
-    labelHelp->setMinimumHeight(labelRecentItems->height());
+    // labelHelp->setMinimumHeight(labelRecentItems->height());
 
     bool result = false;
 
@@ -321,19 +315,19 @@ bool WelcomeView::updateLayout()
         }
     }
 
-    // show/hide widgetHelp depending on the view height
-    if (widgetHelp->isVisible()) {
-        if (width() <= frameContent->width()) {
-            widgetHelp->hide();
-            result = true;
-        }
-    } else {
-        const int implicitWidth = frameContent->width() + widgetHelp->width() + layoutPanels->horizontalSpacing();
-        if (width() > implicitWidth) {
-            widgetHelp->show();
-            return true;
-        }
-    }
+    // // show/hide widgetHelp depending on the view height
+    // if (widgetHelp->isVisible()) {
+    //     if (width() <= frameContent->width()) {
+    //         widgetHelp->hide();
+    //         result = true;
+    //     }
+    // } else {
+    //     const int implicitWidth = frameContent->width() + widgetHelp->width() + layoutPanels->horizontalSpacing();
+    //     if (width() > implicitWidth) {
+    //         widgetHelp->show();
+    //         return true;
+    //     }
+    // }
 
     return result;
 }
