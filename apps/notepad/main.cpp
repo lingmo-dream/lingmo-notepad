@@ -84,7 +84,7 @@ extern "C" Q_DECL_EXPORT int main(int argc, char **argv)
     KAboutData aboutData(QStringLiteral("notepad"),
                          i18n("Notepad"),
                          QStringLiteral(KATE_VERSION),
-                         QIcon::fromTheme(QStringLiteral("accessories-text-editor"));
+                         QIcon::fromTheme(QStringLiteral("accessories-text-editor")),
                          i18n("Notepad - Text Editor"),
                          KAboutLicense::LGPL_V2,
                          i18n("(c) 2025 Lingmo OS Team"),
