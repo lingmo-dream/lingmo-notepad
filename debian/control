@@ -1,8 +1,7 @@
 Source: lingmo-notepad
 Section: lingmo
 Priority: optional
-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
-Uploaders: Aurélien COUDERC <coucouf@debian.org>,
+Maintainer: Lingmo OS Team <team@lingmo.org>
 Build-Depends: cmake (>= 3.16~),
                debhelper-compat (= 13),
                dh-sequence-kf5,
