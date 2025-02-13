@@ -14,7 +14,7 @@
 <title>Overview</title>
 
 <para>The &kappname; editor is the editing area of the &kappname; window. This
-editor is shared between &kate; and &notepad;, and it can also be used in &konqueror;
+editor is shared between &kate; and &kwrite;, and it can also be used in &konqueror;
 for displaying text files from your local computer, or from the
 network.</para>
 

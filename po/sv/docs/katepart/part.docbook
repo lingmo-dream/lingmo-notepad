@@ -32,7 +32,7 @@
 >Översikt</title>
 
 <para
->&kappname;-editorn är redigeringsområdet i &kappname;s fönster. Editorn delas mellan &kate; och &notepad;, och kan också användas i &konqueror; för att visa textfiler från den lokala datorn, eller från nätverket.</para>
+>&kappname;-editorn är redigeringsområdet i &kappname;s fönster. Editorn delas mellan &kate; och &kwrite;, och kan också användas i &konqueror; för att visa textfiler från den lokala datorn, eller från nätverket.</para>
 
 <para
 >Editorn består av följande komponenter:</para>

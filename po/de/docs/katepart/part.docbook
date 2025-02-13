@@ -46,7 +46,7 @@
 >Überblick</title>
 
 <para
->Der Editor von &kappname; ist der Bearbeitungsbereich des &kappname;-Fensters. Dieser Editor wird von &kate; und &notepad; benutzt und kann von &konqueror; für das Anzeigen von Textdateien vom lokalen Computer oder dem Netzwerk benutzt werden.</para>
+>Der Editor von &kappname; ist der Bearbeitungsbereich des &kappname;-Fensters. Dieser Editor wird von &kate; und &kwrite; benutzt und kann von &konqueror; für das Anzeigen von Textdateien vom lokalen Computer oder dem Netzwerk benutzt werden.</para>
 
 <para
 >Der Editor besteht aus den folgenden Bestandteilen:</para>

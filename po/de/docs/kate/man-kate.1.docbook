@@ -108,7 +108,7 @@
 <para
 >&kate; ist der erweiterte Texteditor für &kde;. </para>
 <para
->&kate; stellt unter dem Namen &notepad; außerdem den Editor für verschiedene Anwendungen bereit.</para>
+>&kate; stellt unter dem Namen &kwrite; außerdem den Editor für verschiedene Anwendungen bereit.</para>
 <para
 >Einige der vielen Funktionen von &kate; sind Quelltexthervorhebungen für Programmiersprachen von C und C++ über &HTML; bis zu Bash-Skripten, die Möglichkeit, Projekte zu erstellen und zu verwalten, eine Schnittstelle zum Multi-Dokument-Interface <acronym
 >MDI</acronym

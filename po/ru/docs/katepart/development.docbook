@@ -2144,7 +2144,7 @@
 >. Она является частью &kde; &frameworks;, её используют текстовые редакторы &kde;, такие как <ulink url="https://apps.kde.org/en/kate"
 >&kate;</ulink
 >, <ulink url="https://apps.kde.org/en/notepad"
->&notepad;</ulink
+>&kwrite;</ulink
 >, <ulink url="https://apps.kde.org/en/kile"
 >&kile;</ulink
 > и <ulink url="https://apps.kde.org/en/kdevelop"

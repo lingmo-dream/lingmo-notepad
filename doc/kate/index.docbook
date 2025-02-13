@@ -175,11 +175,11 @@ documentation</para></listitem>
 </varlistentry>
 <varlistentry>
 <term>Jochen Wilhemly <email>digisnap@cs.tu-berlin.de</email></term>
-<listitem><para>&notepad; Author</para></listitem>
+<listitem><para>&kwrite; Author</para></listitem>
 </varlistentry>
 <varlistentry>
 <term>&Michael.Koch; &Michael.Koch.mail;</term>
-<listitem><para>&notepad; port to &kparts;</para></listitem>
+<listitem><para>&kwrite; port to &kparts;</para></listitem>
 </varlistentry>
 <varlistentry>
 <term>&Christian.Gebauer; <email>gebauer@bigfoot.com</email></term>
@@ -191,11 +191,11 @@ documentation</para></listitem>
 </varlistentry>
 <varlistentry>
 <term>Glen Parker <email>glenebob@nwlink.com</email></term>
-<listitem><para>&notepad; Undo History, KSpell integration</para></listitem>
+<listitem><para>&kwrite; Undo History, KSpell integration</para></listitem>
 </varlistentry>
 <varlistentry>
 <term>Scott Manson <email>sdmanson@alltel.net</email></term>
-<listitem><para>&notepad; &XML; syntax highlighting support</para></listitem>
+<listitem><para>&kwrite; &XML; syntax highlighting support</para></listitem>
 </varlistentry>
 <varlistentry>
 <term>&John.Firebaugh; &John.Firebaugh.mail;</term>

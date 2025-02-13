@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <!DOCTYPE article PUBLIC "-//KDE//DTD DocBook XML V4.5-Based Variant V1.1//EN"
 "dtd/kdedbx45.dtd" [
-<!ENTITY kappname "&notepad;">
+<!ENTITY kappname "&kwrite;">
 <!ENTITY % Spanish "INCLUDE"
 > <!-- change language only here -->
 ]>
@@ -10,7 +10,7 @@
 
 <articleinfo>
 <title
->Manual de &notepad;</title>
+>Manual de &kwrite;</title>
 <authorgroup>
 <author
 >&TC.Hollingsworth; &TC.Hollingsworth.mail;</author>
@@ -51,7 +51,7 @@
 
 <abstract>
 <para
->&notepad; es un editor de texto para &kde; que le permite editar un archivo a la vez por cada ventana.</para>
+>&kwrite; es un editor de texto para &kde; que le permite editar un archivo a la vez por cada ventana.</para>
 </abstract>
 
 <keywordset>
@@ -72,12 +72,12 @@
 >Introducción</title>
 
 <para
->&notepad; es más que un editor de texto para &kde;. Pretende ser un editor para programadores y ser considerado, al menos parcialmente, como alternativa a los editores más potentes. Puede usarse en conjunción con &konqueror; o &dolphin; para navegar entre archivos fuente de varios lenguajes de programación. &notepad; también es útil si busca un editor de textos sencillo. Una de las características principales de &notepad; es el coloreado de sintaxis según el lenguaje del archivo, como: C/C++, &Java;, Python, Perl, Bash, Modula 2, &HTML; y Ada. &notepad; cuenta con una interfaz de un solo documento (<acronym
+>&kwrite; es más que un editor de texto para &kde;. Pretende ser un editor para programadores y ser considerado, al menos parcialmente, como alternativa a los editores más potentes. Puede usarse en conjunción con &konqueror; o &dolphin; para navegar entre archivos fuente de varios lenguajes de programación. &kwrite; también es útil si busca un editor de textos sencillo. Una de las características principales de &kwrite; es el coloreado de sintaxis según el lenguaje del archivo, como: C/C++, &Java;, Python, Perl, Bash, Modula 2, &HTML; y Ada. &kwrite; cuenta con una interfaz de un solo documento (<acronym
 >SDI</acronym
 >) que permite editar un archivo cada vez por ventana. </para>
 
 <para
->&notepad; es una interfaz sencilla para el componente &katepart; que también utiliza &kate;, &kdevelop; y otras aplicaciones de &kde; que necesiten edición avanzada de texto. Por lo tanto, la documentación completa de todas las funcionalidades de &notepad; se puede encontrar en el <ulink url="help:/katepart"
+>&kwrite; es una interfaz sencilla para el componente &katepart; que también utiliza &kate;, &kdevelop; y otras aplicaciones de &kde; que necesiten edición avanzada de texto. Por lo tanto, la documentación completa de todas las funcionalidades de &kwrite; se puede encontrar en el <ulink url="help:/katepart"
 >Manual de &katepart;</ulink
 >. </para>
 </sect1>
@@ -87,7 +87,7 @@
 >Opciones de la línea de órdenes</title>
 
 <para
->Aunque &notepad; se puede iniciar habitualmente desde el lanzador de aplicaciones de &plasma;, o usando un icono en el escritorio, también se puede abrir desde la línea de órdenes de una ventana de terminal. Existen varias opciones útiles que están disponibles al usar este método. </para>
+>Aunque &kwrite; se puede iniciar habitualmente desde el lanzador de aplicaciones de &plasma;, o usando un icono en el escritorio, también se puede abrir desde la línea de órdenes de una ventana de terminal. Existen varias opciones útiles que están disponibles al usar este método. </para>
 
 <para
 >Otras aplicaciones que también usan &katepart; ofrecen opciones similares desde la línea de órdenes.</para>
@@ -97,7 +97,7 @@
 >Especificar un archivo</title>
 
 <para
->Al especificar la ruta y el nombre de un determinado archivo, el usuario puede hacer que &notepad; lo abra (o lo cree) inmediatamente tras su inicio. Esta opción puede ser similar a la siguiente:</para>
+>Al especificar la ruta y el nombre de un determinado archivo, el usuario puede hacer que &kwrite; lo abra (o lo cree) inmediatamente tras su inicio. Esta opción puede ser similar a la siguiente:</para>
 
 <informalexample
 ><screen
@@ -175,7 +175,7 @@
 ></term>
 <listitem
 ><para
->Lista los autores de &notepad; en la ventana del terminal.</para
+>Lista los autores de &kwrite; en la ventana del terminal.</para
 ></listitem>
 </varlistentry>
 <varlistentry>
@@ -247,7 +247,7 @@
 ></term>
 <listitem
 ><para
->Hace que &notepad; use la codificación especificada para el documento. </para
+>Hace que &kwrite; use la codificación especificada para el documento. </para
 ></listitem>
 </varlistentry>
 
@@ -302,9 +302,9 @@
 ></term>
 <listitem
 ><para
->Hace que &notepad; lea el contenido del documento desde la entrada estándar. Esto es similar a la opción común <option
+>Hace que &kwrite; lea el contenido del documento desde la entrada estándar. Esto es similar a la opción común <option
 >-</option
-> que se usa en la línea de órdenes de muchos programas y le permite enviar la salida de una orden a &notepad;.</para
+> que se usa en la línea de órdenes de muchos programas y le permite enviar la salida de una orden a &kwrite;.</para
 ></listitem>
 </varlistentry>
 
@@ -317,10 +317,10 @@
 >Créditos y licencia</title>
 
 <para
->Copyright de &notepad; 2001-2014 por el equipo de &kate;.</para>
+>Copyright de &kwrite; 2001-2014 por el equipo de &kate;.</para>
 
 <para
->Basado en el original &notepad;. Derechos de autor. 2000. Jochen Wilhelmy <email
+>Basado en el original &kwrite;. Derechos de autor. 2000. Jochen Wilhelmy <email
 >digisnap@cs.tu-berlin.de</email
 >. </para>
 

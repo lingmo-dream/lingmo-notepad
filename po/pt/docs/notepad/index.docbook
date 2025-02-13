@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <!DOCTYPE article PUBLIC "-//KDE//DTD DocBook XML V4.5-Based Variant V1.1//EN"
 "dtd/kdedbx45.dtd" [
-<!ENTITY kappname "&notepad;">
+<!ENTITY kappname "&kwrite;">
 <!ENTITY % Portuguese "INCLUDE"
 > <!-- change language only here -->
 ]>
@@ -10,7 +10,7 @@
 
 <articleinfo>
 <title
->O Manual do &notepad;</title>
+>O Manual do &kwrite;</title>
 <authorgroup>
 <author
 >&TC.Hollingsworth; &TC.Hollingsworth.mail;</author>
@@ -51,7 +51,7 @@
 
 <abstract>
 <para
->O &notepad; é um editor de texto para o &kde;, que lhe permite editar um ficheiro de cada vez por janela.</para>
+>O &kwrite; é um editor de texto para o &kde;, que lhe permite editar um ficheiro de cada vez por janela.</para>
 </abstract>
 
 <keywordset>
@@ -72,12 +72,12 @@
 >Introdução</title>
 
 <para
->O &notepad; é mais do que um editor de texto para o ambiente de trabalho do &kde;. Pretende-se que seja um editor para o programador, e poderia ser considerado pelo menos como uma alternativa parcial para a maioria dos editores poderosos. Poderá ser melhor usado, em conjunto com o &konqueror; ou o &dolphin;, para a navegação por ficheiros de código das diferentes linguagens. O &notepad; também funciona muito bem como um editor de texto simples. Uma das funcionalidades principais do &notepad; é a sintaxe colorida personalizada para muitas das diferentes linguagens de programação como por exemplo: C/C++, &Java;, Python, Perl, Bash, Modula 2, &HTML; e Ada. O &notepad; tem uma interface para documentos individuais (<acronym
+>O &kwrite; é mais do que um editor de texto para o ambiente de trabalho do &kde;. Pretende-se que seja um editor para o programador, e poderia ser considerado pelo menos como uma alternativa parcial para a maioria dos editores poderosos. Poderá ser melhor usado, em conjunto com o &konqueror; ou o &dolphin;, para a navegação por ficheiros de código das diferentes linguagens. O &kwrite; também funciona muito bem como um editor de texto simples. Uma das funcionalidades principais do &kwrite; é a sintaxe colorida personalizada para muitas das diferentes linguagens de programação como por exemplo: C/C++, &Java;, Python, Perl, Bash, Modula 2, &HTML; e Ada. O &kwrite; tem uma interface para documentos individuais (<acronym
 >SDI</acronym
 >), que lhe permite editar um ficheiro de cada vez em cada janela. </para>
 
 <para
->O &notepad; é uma interface simples para o componente &katepart;, que é também usado pelo &kate;, pelo KDevelop e por outras aplicações do &kde; que precisam de funcionalidades avançadas de edição de texto. Como tal, poderá encontrar alguma documentação completa para todas as funcionalidades do &notepad; no <ulink url="help:/katepart"
+>O &kwrite; é uma interface simples para o componente &katepart;, que é também usado pelo &kate;, pelo KDevelop e por outras aplicações do &kde; que precisam de funcionalidades avançadas de edição de texto. Como tal, poderá encontrar alguma documentação completa para todas as funcionalidades do &kwrite; no <ulink url="help:/katepart"
 >Manual do &katepart;</ulink
 >. </para>
 </sect1>
@@ -87,10 +87,10 @@
 >Créditos e Licença</title>
 
 <para
->&notepad;. Copyright 2001-2014 da equipa do &kate;.</para>
+>&kwrite;. Copyright 2001-2014 da equipa do &kate;.</para>
 
 <para
->Baseado no &notepad; original que tem o Copyright 2000 de Jochen Wilhemly <email
+>Baseado no &kwrite; original que tem o Copyright 2000 de Jochen Wilhemly <email
 >digisnap@cs.tu-berlin.de</email
 > </para>
 

@@ -2118,7 +2118,7 @@
 >. Вона є частиною &kde; &frameworks;, її використовують текстові редактори &kde;, зокрема <ulink url="https://apps.kde.org/en/kate"
 >&kate;</ulink
 >, <ulink url="https://apps.kde.org/en/notepad"
->&notepad;</ulink
+>&kwrite;</ulink
 >, <ulink url="https://apps.kde.org/en/kile"
 >&kile;</ulink
 > та <ulink url="https://apps.kde.org/en/kdevelop"

@@ -329,7 +329,7 @@
 ></term>
 <listitem
 ><para
->Автор &notepad;</para
+>Автор &kwrite;</para
 ></listitem>
 </varlistentry>
 <varlistentry>
@@ -337,7 +337,7 @@
 >&Michael.Koch; &Michael.Koch.mail;</term>
 <listitem
 ><para
->Перенос &notepad; на &kparts;</para
+>Перенос &kwrite; на &kparts;</para
 ></listitem>
 </varlistentry>
 <varlistentry>
@@ -365,7 +365,7 @@
 ></term>
 <listitem
 ><para
->Журнал действий &notepad;, интеграция KSpell</para
+>Журнал действий &kwrite;, интеграция KSpell</para
 ></listitem>
 </varlistentry>
 <varlistentry>
@@ -375,7 +375,7 @@
 ></term>
 <listitem
 ><para
->Подсветка синтаксиса &XML; в &notepad;</para
+>Подсветка синтаксиса &XML; в &kwrite;</para
 ></listitem>
 </varlistentry>
 <varlistentry>

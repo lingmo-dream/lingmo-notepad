@@ -3,14 +3,14 @@
 >Alguns Fundamentos</title>
 
 <para
->O &notepad;, bem como outras utilizações do &katepart;, é muito simples de usar. Toda a gente que já usou um editor de texto não deverá ter problemas. </para>
+>O &kwrite;, bem como outras utilizações do &katepart;, é muito simples de usar. Toda a gente que já usou um editor de texto não deverá ter problemas. </para>
 
 <sect1 id="drag-and-drop">
 <title
 >Arrastar e Largar</title>
 
 <para
->O &katepart; utiliza o protocolo 'Drag and Drop' do &kde;. Os ficheiros podem ser arrastados e largados no &notepad; a partir do ecrã, do &dolphin; ou de algum servidor de &FTP; remoto aberto numa das janelas do &dolphin;. </para>
+>O &katepart; utiliza o protocolo 'Drag and Drop' do &kde;. Os ficheiros podem ser arrastados e largados no &kwrite; a partir do ecrã, do &dolphin; ou de algum servidor de &FTP; remoto aberto numa das janelas do &dolphin;. </para>
 </sect1>
 
 <sect1 id="command-line-options">
@@ -18,7 +18,7 @@
 >Opções da Linha de Comandos</title>
 
 <para
->Embora o &notepad; possa ser geralmente iniciado a partir do menu de programas do &kde; ou de um ícone do ecrã, poderá ser aberto a partir da linha de comandos de uma janela de terminal. Existem algumas opções úteis que estão disponíveis ao fazer isto. </para>
+>Embora o &kwrite; possa ser geralmente iniciado a partir do menu de programas do &kde; ou de um ícone do ecrã, poderá ser aberto a partir da linha de comandos de uma janela de terminal. Existem algumas opções úteis que estão disponíveis ao fazer isto. </para>
 
 <para
 >Muitas outras aplicações que usam o &katepart; oferecem opções da linha de comandos semelhantes.</para>
@@ -28,7 +28,7 @@
 >Indicar um Ficheiro</title>
 
 <para
->Ao indicar a localização e o nome de um ficheiro em particular, o utilizador poderá fazer com que o &notepad; abra (ou crie) esse ficheiro imediatamente no seu arranque. Esta opção poder-se-á traduzir em algo como o que se segue:</para>
+>Ao indicar a localização e o nome de um ficheiro em particular, o utilizador poderá fazer com que o &kwrite; abra (ou crie) esse ficheiro imediatamente no seu arranque. Esta opção poder-se-á traduzir em algo como o que se segue:</para>
 
 <informalexample
 ><screen
@@ -106,7 +106,7 @@
 ></term>
 <listitem
 ><para
->Lista os autores do &notepad; na janela do terminal.</para
+>Lista os autores do &kwrite; na janela do terminal.</para
 ></listitem>
 </varlistentry>
 <varlistentry>
@@ -131,7 +131,7 @@
 <term
 ><userinput
 ><command
->&notepad;</command
+>&kwrite;</command
 > <option
 >--license</option
 ></userinput
@@ -177,7 +177,7 @@
 ></term>
 <listitem
 ><para
->Faz com que o &notepad; use a codificação indicada para o documento. </para
+>Faz com que o &kwrite; use a codificação indicada para o documento. </para
 ></listitem>
 </varlistentry>
 
@@ -236,9 +236,9 @@
 ></term>
 <listitem
 ><para
->Faz com que o &notepad; leia o conteúdo do documento a partir do STDIN. Isto é semelhante à opção comum <option
+>Faz com que o &kwrite; leia o conteúdo do documento a partir do STDIN. Isto é semelhante à opção comum <option
 >-</option
->, que é usada em muitos programas da linha de comandos, permitindo-lhe encaminhar o resultado dos comandos para o &notepad;.</para
+>, que é usada em muitos programas da linha de comandos, permitindo-lhe encaminhar o resultado dos comandos para o &kwrite;.</para
 ></listitem>
 </varlistentry>
 

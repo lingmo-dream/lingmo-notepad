@@ -48,7 +48,7 @@ line</replaceable></group>
 <title>Description</title>
 <para>&kate; is the &kde; Advanced Text Editor. </para>
 <para>&kate; also provides the editor part for various applications, under
-the name &notepad;.</para>
+the name &kwrite;.</para>
 <para>Some of &kate;'s many features include configurable syntax
 highlighting for languages ranging from C and C++ to
 &HTML; to bash scripts, the ability to create and

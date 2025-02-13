@@ -2140,7 +2140,7 @@
 >. È parte di &kde; &frameworks; e viene usata negli editor di testo di &kde; come <ulink url="https://apps.kde.org/en/kate"
 >&kate;</ulink
 >, <ulink url="https://apps.kde.org/en/notepad"
->&notepad;</ulink
+>&kwrite;</ulink
 >, <ulink url="https://apps.kde.org/en/kile"
 >&kile;</ulink
 > e <ulink url="https://apps.kde.org/en/kdevelop"

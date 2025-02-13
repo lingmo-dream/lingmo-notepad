@@ -2143,7 +2143,7 @@
 >. Die Bibliothek ist Teil von von &kde;-&frameworks; und wird in &kde;-Texteditoren wie <ulink url="https://apps.kde.org/en/kate"
 >&kate;</ulink
 >, <ulink url="https://apps.kde.org/de/notepad"
->&notepad;</ulink
+>&kwrite;</ulink
 >, <ulink url="https://apps.kde.org/en/.kile"
 >&kile;</ulink
 > und <ulink url="https://apps.kde.org/en/kdevelop"

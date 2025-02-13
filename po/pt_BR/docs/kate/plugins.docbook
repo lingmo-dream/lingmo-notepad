@@ -40,7 +40,7 @@
 >Trabalhando com plugins</title>
 
 <para
->O &kate; oferece diversos tipos de plugin. Existem plugins para o componente de edição do &kate;, que ficam disponíveis para qualquer aplicativo que use esse componente, como o KDevelop, o Quanta, o Kile, o &notepad;, entre muitos outros. Existem também plugins que só estão disponíveis no editor &kate; propriamente dito. Existem dois tipos desses plugins: alguns são escritos em C++ nativo, enquanto outros são escritos na linguagem de programação Python. Existem diferenças sutis entre eles, que são descritas abaixo.</para>
+>O &kate; oferece diversos tipos de plugin. Existem plugins para o componente de edição do &kate;, que ficam disponíveis para qualquer aplicativo que use esse componente, como o KDevelop, o Quanta, o Kile, o &kwrite;, entre muitos outros. Existem também plugins que só estão disponíveis no editor &kate; propriamente dito. Existem dois tipos desses plugins: alguns são escritos em C++ nativo, enquanto outros são escritos na linguagem de programação Python. Existem diferenças sutis entre eles, que são descritas abaixo.</para>
 
 <para
 >Você poderá ativar qualquer tipo de plugin na <link linkend="configuring-kate-configdialog"

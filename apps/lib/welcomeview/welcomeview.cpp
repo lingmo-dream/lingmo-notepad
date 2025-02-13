@@ -90,15 +90,15 @@ WelcomeView::WelcomeView(KateViewManager *viewManager, QWidget *parent)
         recentFilesAction->clear();
     });
 
-    connect(labelHomepage, qOverload<>(&KUrlLabel::leftClickedUrl), this, [aboutData]() {
-        QDesktopServices::openUrl(QUrl(aboutData.homepage()));
-    });
-    connect(labelContribute, qOverload<>(&KUrlLabel::leftClickedUrl), this, []() {
-        QDesktopServices::openUrl(QUrl(QStringLiteral("https://kate-editor.org/join-us")));
-    });
-    connect(labelHandbook, qOverload<>(&KUrlLabel::leftClickedUrl), this, [this]() {
-        m_viewManager->mainWindow()->appHelpActivated();
-    });
+    // connect(labelHomepage, qOverload<>(&KUrlLabel::leftClickedUrl), this, [aboutData]() {
+    //     QDesktopServices::openUrl(QUrl(aboutData.homepage()));
+    // });
+    // connect(labelContribute, qOverload<>(&KUrlLabel::leftClickedUrl), this, []() {
+    //     QDesktopServices::openUrl(QUrl(QStringLiteral("https://github.com/LingmoOS")));
+    // });
+    // connect(labelHandbook, qOverload<>(&KUrlLabel::leftClickedUrl), this, [this]() {
+    //     m_viewManager->mainWindow()->appHelpActivated();
+    // });
 
     onPluginViewChanged();
 

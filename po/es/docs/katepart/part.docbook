@@ -74,7 +74,7 @@
 >Introducción</title>
 
 <para
->El editor de &kappname; es el área de edición de la ventana de &kappname;. Dicho editor también está compartido por &kate; y &notepad;, y también se puede utilizar en &konqueror; para mostrar archivos de texto desde su equipo local o desde la red.</para>
+>El editor de &kappname; es el área de edición de la ventana de &kappname;. Dicho editor también está compartido por &kate; y &kwrite;, y también se puede utilizar en &konqueror; para mostrar archivos de texto desde su equipo local o desde la red.</para>
 
 <para
 >El editor está compuesto de los siguientes componentes:</para>

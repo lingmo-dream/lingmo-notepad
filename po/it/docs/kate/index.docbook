@@ -329,7 +329,7 @@
 ></term>
 <listitem
 ><para
->Autori di &notepad;</para
+>Autori di &kwrite;</para
 ></listitem>
 </varlistentry>
 <varlistentry>
@@ -337,7 +337,7 @@
 >&Michael.Koch; &Michael.Koch.mail;</term>
 <listitem
 ><para
->Port di &notepad; su &kparts;</para
+>Port di &kwrite; su &kparts;</para
 ></listitem>
 </varlistentry>
 <varlistentry>
@@ -365,7 +365,7 @@
 ></term>
 <listitem
 ><para
->Sistema di Annulla/Rifai di &notepad; con elenco azioni e integrazione con KSpell</para
+>Sistema di Annulla/Rifai di &kwrite; con elenco azioni e integrazione con KSpell</para
 ></listitem>
 </varlistentry>
 <varlistentry>
@@ -375,7 +375,7 @@
 ></term>
 <listitem
 ><para
->Supporto per l'evidenziazione dei file XML in &notepad;</para
+>Supporto per l'evidenziazione dei file XML in &kwrite;</para
 ></listitem>
 </varlistentry>
 <varlistentry>

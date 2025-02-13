@@ -273,7 +273,7 @@
 ></term>
 <listitem
 ><para
->Auteur van &notepad;</para
+>Auteur van &kwrite;</para
 ></listitem>
 </varlistentry>
 <varlistentry>
@@ -281,7 +281,7 @@
 >&Michael.Koch; &Michael.Koch.mail;</term>
 <listitem
 ><para
->Omzetting van &notepad; naar &kparts;</para
+>Omzetting van &kwrite; naar &kparts;</para
 ></listitem>
 </varlistentry>
 <varlistentry>
@@ -309,7 +309,7 @@
 ></term>
 <listitem
 ><para
->Ongedaan-maken-geschiedenis van &notepad;, integratie van KSpell</para
+>Ongedaan-maken-geschiedenis van &kwrite;, integratie van KSpell</para
 ></listitem>
 </varlistentry>
 <varlistentry>
@@ -319,7 +319,7 @@
 ></term>
 <listitem
 ><para
->&XML;-syntaxisaccentuering in &notepad;</para
+>&XML;-syntaxisaccentuering in &kwrite;</para
 ></listitem>
 </varlistentry>
 <varlistentry>

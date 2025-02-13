@@ -273,7 +273,7 @@
 ></term>
 <listitem
 ><para
->Autor del &notepad;</para
+>Autor del &kwrite;</para
 ></listitem>
 </varlistentry>
 <varlistentry>
@@ -281,7 +281,7 @@
 >&Michael.Koch; &Michael.Koch.mail;</term>
 <listitem
 ><para
->Adaptació del &notepad; a la &kparts;</para
+>Adaptació del &kwrite; a la &kparts;</para
 ></listitem>
 </varlistentry>
 <varlistentry>
@@ -309,7 +309,7 @@
 ></term>
 <listitem
 ><para
->Historial desfés del &notepad;, integració amb el Kspell</para
+>Historial desfés del &kwrite;, integració amb el Kspell</para
 ></listitem>
 </varlistentry>
 <varlistentry>
@@ -319,7 +319,7 @@
 ></term>
 <listitem
 ><para
->Suport del ressaltat de sintaxi &XML; de &notepad;</para
+>Suport del ressaltat de sintaxi &XML; de &kwrite;</para
 ></listitem>
 </varlistentry>
 <varlistentry>

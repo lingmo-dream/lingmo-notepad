@@ -2116,7 +2116,7 @@
 >. Det är en del av &kde; Ramverk och används i &kde;:s texteditorer såsom <ulink url="https://apps.kde.org/en/kate"
 >&kate;</ulink
 >, <ulink url="https://apps.kde.org/en/notepad"
->&notepad;</ulink
+>&kwrite;</ulink
 >, <ulink url="https://apps.kde.org/en/kile"
 >&kile;</ulink
 > och <ulink url="https://apps.kde.org/en/kdevelop"

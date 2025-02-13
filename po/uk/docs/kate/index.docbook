@@ -287,7 +287,7 @@
 ></term>
 <listitem
 ><para
->Автор &notepad;</para
+>Автор &kwrite;</para
 ></listitem>
 </varlistentry>
 <varlistentry>
@@ -295,7 +295,7 @@
 >&Michael.Koch; &Michael.Koch.mail;</term>
 <listitem
 ><para
->портування &notepad; на KParts</para
+>портування &kwrite; на KParts</para
 ></listitem>
 </varlistentry>
 <varlistentry>
@@ -323,7 +323,7 @@
 ></term>
 <listitem
 ><para
->Журнал дій у &notepad;, інтеграція з KSpell</para
+>Журнал дій у &kwrite;, інтеграція з KSpell</para
 ></listitem>
 </varlistentry>
 <varlistentry>
@@ -333,7 +333,7 @@
 ></term>
 <listitem
 ><para
->Підтримка підсвічування синтаксису &XML; у &notepad;</para
+>Підтримка підсвічування синтаксису &XML; у &kwrite;</para
 ></listitem>
 </varlistentry>
 <varlistentry>

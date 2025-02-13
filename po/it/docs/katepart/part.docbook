@@ -54,7 +54,7 @@
 >Panoramica</title>
 
 <para
->L'editor &kappname; è l'area modificabile della finestra di &kappname;. Questo editor è condiviso tra &kate; e &notepad;, e può essere usato anche da &konqueror; per mostrare i file di testo presenti nel tuo computer o in rete.</para>
+>L'editor &kappname; è l'area modificabile della finestra di &kappname;. Questo editor è condiviso tra &kate; e &kwrite;, e può essere usato anche da &konqueror; per mostrare i file di testo presenti nel tuo computer o in rete.</para>
 
 <para
 >L'editor è costituito dai seguenti componenti:</para>

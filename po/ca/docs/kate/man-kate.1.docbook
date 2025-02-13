@@ -104,7 +104,7 @@
 <para
 >El &kate; és l'editor avançat de text del &kde;. </para>
 <para
->El &kate; també proveeix la part editora a diverses aplicacions, sota el nom &notepad;.</para>
+>El &kate; també proveeix la part editora a diverses aplicacions, sota el nom &kwrite;.</para>
 <para
 >Algunes de les característiques de &kate; inclouen el ressaltat configurable de la sintaxi per a llenguatges com C i C++, &HTML; o scripts de bash, l'habilitat de crear i mantenir projectes, una interfície de múltiples documents (<acronym
 >MDI</acronym

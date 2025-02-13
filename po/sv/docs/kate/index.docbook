@@ -287,7 +287,7 @@
 ></term>
 <listitem
 ><para
->&notepad;s upphovsman</para
+>&kwrite;s upphovsman</para
 ></listitem>
 </varlistentry>
 <varlistentry>
@@ -295,7 +295,7 @@
 >&Michael.Koch; &Michael.Koch.mail;</term>
 <listitem
 ><para
->Konvertering av &notepad; till &kparts;</para
+>Konvertering av &kwrite; till &kparts;</para
 ></listitem>
 </varlistentry>
 <varlistentry>
@@ -323,7 +323,7 @@
 ></term>
 <listitem
 ><para
->Ångra historik för &notepad;, Kspell-integrering</para
+>Ångra historik för &kwrite;, Kspell-integrering</para
 ></listitem>
 </varlistentry>
 <varlistentry>
@@ -333,7 +333,7 @@
 ></term>
 <listitem
 ><para
->Stöd för &notepad; &XML;-syntaxfärgläggning</para
+>Stöd för &kwrite; &XML;-syntaxfärgläggning</para
 ></listitem>
 </varlistentry>
 <varlistentry>

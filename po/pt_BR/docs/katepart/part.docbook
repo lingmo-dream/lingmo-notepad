@@ -32,7 +32,7 @@
 >Visão geral</title>
 
 <para
->O editor &kappname; é a área de edição da janela do &kappname;. Este editor também é usado pelo &kate; e pelo &notepad;, e ele pode também ser usado pelo &konqueror; para exibir arquivos texto de seu computador local ou da rede.</para>
+>O editor &kappname; é a área de edição da janela do &kappname;. Este editor também é usado pelo &kate; e pelo &kwrite;, e ele pode também ser usado pelo &konqueror; para exibir arquivos texto de seu computador local ou da rede.</para>
 
 <para
 >O editor é composto pelos seguintes componentes:</para>

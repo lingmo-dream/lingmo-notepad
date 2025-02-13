@@ -1,14 +1,14 @@
 <?xml version="1.0" ?>
 <!DOCTYPE article PUBLIC "-//KDE//DTD DocBook XML V4.5-Based Variant V1.1//EN"
 "dtd/kdedbx45.dtd" [
-<!ENTITY kappname "&notepad;">
+<!ENTITY kappname "&kwrite;">
 <!ENTITY % English "INCLUDE" > <!-- change language only here -->
 ]>
 
 <article id="notepad" lang="&language;">
 
 <articleinfo>
-<title>The &notepad; Handbook</title>
+<title>The &kwrite; Handbook</title>
 <authorgroup>
 <author>&TC.Hollingsworth; &TC.Hollingsworth.mail;</author>
 <othercredit role="developer">
@@ -30,7 +30,7 @@
 <releaseinfo>KDE Gear 21.12</releaseinfo>
 
 <abstract>
-<para>&notepad; is a text editor by &kde; allowing you to edit one file at the time per window.</para>
+<para>&kwrite; is a text editor by &kde; allowing you to edit one file at the time per window.</para>
 </abstract>
 
 <keywordset>
@@ -46,21 +46,21 @@
 <title>Introduction</title>
 
 <para>
-&notepad; is more than a text editor by &kde;. It is meant
+&kwrite; is more than a text editor by &kde;. It is meant
 to be a programmer's editor, and could be considered as at least a
 partial alternative to more powerful editors.  It may be best used in
 conjunction with &konqueror; or &dolphin; for source file browsing for different
-languages. &notepad; also works very well as a simple text editor.  One
-of &notepad;'s main features is the colorized syntax, customized for many
+languages. &kwrite; also works very well as a simple text editor.  One
+of &kwrite;'s main features is the colorized syntax, customized for many
 different programming languages such as: C/C++, &Java;, Python, Perl,
-Bash, Modula 2, &HTML;, and Ada.  &notepad; has a single document interface
+Bash, Modula 2, &HTML;, and Ada.  &kwrite; has a single document interface
 (<acronym>SDI</acronym>) allowing you to edit one file at the time per window.
 </para>
 
 <para>
-&notepad; is a simple interface to the &katepart; component also used by &kate;,
+&kwrite; is a simple interface to the &katepart; component also used by &kate;,
 &kdevelop;, and other applications from &kde; that require advanced text editing.
-Therefore, complete documentation for all the features of &notepad; can be found
+Therefore, complete documentation for all the features of &kwrite; can be found
 in the <ulink url="help:/katepart">&katepart; Handbook</ulink>.
 </para>
 </sect1>
@@ -69,7 +69,7 @@ in the <ulink url="help:/katepart">&katepart; Handbook</ulink>.
 <title>Command Line Options</title>
 
 <para>
-Though &notepad; may most often be started from the &plasma; application starter, or
+Though &kwrite; may most often be started from the &plasma; application starter, or
 a desktop icon, it can also be opened at the command line prompt of a
 terminal window.  There are a few useful options that are available when
 doing this.
@@ -82,7 +82,7 @@ options.</para>
 <title>Specify a File</title>
 
 <para>By specifying the path and name of a particular file the user can
-have &notepad; open (or create) that file immediately upon startup.  This
+have &kwrite; open (or create) that file immediately upon startup.  This
 option might look something like the following:</para>
 
 <informalexample><screen>
@@ -125,7 +125,7 @@ line.</para></listitem>
 <varlistentry>
 <term><userinput><command>notepad</command>
 <option>--author</option></userinput></term>
-<listitem><para>Lists &notepad;'s authors in the terminal
+<listitem><para>Lists &kwrite;'s authors in the terminal
 window.</para></listitem>
 </varlistentry>
 <varlistentry>
@@ -157,7 +157,7 @@ file can have its own command line for the <option>Exec</option> entry.
 <term><userinput><command>notepad</command>
 <option>-e</option>, <option>--encoding</option> <parameter>encoding</parameter>
 </userinput></term>
-<listitem><para>Causes &notepad; to use the specified encoding for the document.
+<listitem><para>Causes &kwrite; to use the specified encoding for the document.
 </para></listitem>
 </varlistentry>
 
@@ -180,9 +180,9 @@ file can have its own command line for the <option>Exec</option> entry.
 <varlistentry>
 <term><userinput><command>notepad</command>
 <option>-i</option>, <option>--stdin</option></userinput></term>
-<listitem><para>Causes &notepad; to read the document content from STDIN. This
+<listitem><para>Causes &kwrite; to read the document content from STDIN. This
 is similar to the common option <option>-</option> used in many command line
-programs, and allows you to pipe command output into &notepad;.</para></listitem>
+programs, and allows you to pipe command output into &kwrite;.</para></listitem>
 </varlistentry>
 
 </variablelist>
@@ -192,10 +192,10 @@ programs, and allows you to pipe command output into &notepad;.</para></listitem
 <sect1 id="credits">
 <title>Credits and License</title>
 
-<para>&notepad; Copyright 2001-2014 by the &kate; team.</para>
+<para>&kwrite; Copyright 2001-2014 by the &kate; team.</para>
 
 <para>
-Based on the original &notepad;, which was Copyright 2000 by Jochen Wilhelmy
+Based on the original &kwrite;, which was Copyright 2000 by Jochen Wilhelmy
 <email>digisnap@cs.tu-berlin.de</email>
 </para>
 

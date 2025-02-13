@@ -3,7 +3,7 @@
 >Aspectos básicos</title>
 
 <para
->&notepad; y &katepart; son fáciles de usar. Cualquiera que haya usado un editor de textos alguna vez no debería tener ningún problema al usarlos. </para>
+>&kwrite; y &katepart; son fáciles de usar. Cualquiera que haya usado un editor de textos alguna vez no debería tener ningún problema al usarlos. </para>
 
 <sect1 id="drag-and-drop">
 <title
@@ -18,7 +18,7 @@
 >Opciones de la línea de órdenes</title>
 
 <para
->Aunque es más probable que inicie &notepad; desde el menú de &kde; o desde un icono del escritorio, también puede abrirlo desde una línea de órdenes de una ventana del terminal. Existen algunas opciones prácticas que estarán disponibles.varias opciones. </para>
+>Aunque es más probable que inicie &kwrite; desde el menú de &kde; o desde un icono del escritorio, también puede abrirlo desde una línea de órdenes de una ventana del terminal. Existen algunas opciones prácticas que estarán disponibles.varias opciones. </para>
 
 <para
 >Muchas otras aplicaciones que utilizan &katepart; ofrecen opciones similares de línea de órdenes.</para>
@@ -28,7 +28,7 @@
 >Especificar un archivo</title>
 
 <para
->Especificando la ruta y el nombre de un archivo particular el usuario puede hacer que &notepad; abra (o cree) el archivo inmediatamente después de iniciarse. Esta opción puede tener el siguiente aspecto:</para>
+>Especificando la ruta y el nombre de un archivo particular el usuario puede hacer que &kwrite; abra (o cree) el archivo inmediatamente después de iniciarse. Esta opción puede tener el siguiente aspecto:</para>
 
 <informalexample
 ><screen
@@ -106,7 +106,7 @@
 ></term>
 <listitem
 ><para
->Muestra los autores de &notepad; en la ventana de terminal.</para
+>Muestra los autores de &kwrite; en la ventana de terminal.</para
 ></listitem>
 </varlistentry>
 <varlistentry>
@@ -131,7 +131,7 @@
 <term
 ><userinput
 ><command
->&notepad;</command
+>&kwrite;</command
 > <option
 >--license</option
 ></userinput
@@ -177,7 +177,7 @@
 ></term>
 <listitem
 ><para
->Hace que &notepad; utilice la codificación utilizada para el documento. </para
+>Hace que &kwrite; utilice la codificación utilizada para el documento. </para
 ></listitem>
 </varlistentry>
 
@@ -236,9 +236,9 @@
 ></term>
 <listitem
 ><para
->Hace que &notepad; lea el contenido del documento desde STDIN. Es similar a la opción <option
+>Hace que &kwrite; lea el contenido del documento desde STDIN. Es similar a la opción <option
 >-</option
-> utilizada en la mayor parte de los programas de líneas de órdenes, y le permite redirigir la salida de la orden a &notepad;.</para
+> utilizada en la mayor parte de los programas de líneas de órdenes, y le permite redirigir la salida de la orden a &kwrite;.</para
 ></listitem>
 </varlistentry>
 

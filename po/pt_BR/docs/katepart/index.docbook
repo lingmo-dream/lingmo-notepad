@@ -132,9 +132,9 @@
 <para
 >&katepart; é um componente de edição completo, usado por muitos aplicativos do &Qt; e do &kde;. O &katepart; é mais que um editor de texto, tem como objetivo ser o editor do programador e poderia ser considerado pelo menos como uma alternativa parcial para a maioria dos editores mais poderosos. Uma das principais funcionalidades do &katepart; é a sintaxe colorida, personalizada para muitas das diferentes linguagens de programação, como por exemplo: C/C++, &Java;, Python, Perl, Bash, Modula 2, &HTML; e Ada. </para>
 <para
->&notepad; é um editor de texto simples baseado no &katepart;. Tem uma interface de documentos individuais (<acronym
+>&kwrite; é um editor de texto simples baseado no &katepart;. Tem uma interface de documentos individuais (<acronym
 >SDI</acronym
->) que permite modificar apenas um arquivo por janela. Pelo fato de o &notepad; ser uma implementação muito simples do &katepart;, não precisa ter uma documentação própria. Se você souber usar o &notepad;, poderá usar o &katepart; em qualquer lugar! </para>
+>) que permite modificar apenas um arquivo por janela. Pelo fato de o &kwrite; ser uma implementação muito simples do &katepart;, não precisa ter uma documentação própria. Se você souber usar o &kwrite;, poderá usar o &katepart; em qualquer lugar! </para>
 </chapter>
 
 &fundamentals-chapter;
@@ -154,10 +154,10 @@
 >Créditos e licença</title>
 
 <para
->Direitos autorais do &katepart; e &notepad; 2001-2014 da equipe do &kate;.</para>
+>Direitos autorais do &katepart; e &kwrite; 2001-2014 da equipe do &kate;.</para>
 
 <para
->Baseado no &notepad; original, que possui Direitos Autorais 2000 para Jochen Wilhelmy <email
+>Baseado no &kwrite; original, que possui Direitos Autorais 2000 para Jochen Wilhelmy <email
 >digisnap@cs.tu-berlin.de</email
 > </para>
 
@@ -244,10 +244,10 @@
 </itemizedlist>
 
 <para
->A documentação do &katepart; é baseada na documentação original do &notepad;, modificada para ser relevante a todos os usuários do &katepart;. </para>
+>A documentação do &katepart; é baseada na documentação original do &kwrite;, modificada para ser relevante a todos os usuários do &katepart;. </para>
 
 <para
->A documentação original do &notepad; foi escrita por &Thad.McGinnis; &Thad.McGinnis.mail;, com diversas modificações de &Cristian.Tibirna; &Cristian.Tibirna.mail;. Foi revista e convertida para DocBook por &Lauri.Watts; &Lauri.Watts.mail; e atualizada por &Anne-Marie.Mahfouf; &Anne-Marie.Mahfouf.mail; e &Anders.Lund; &Anders.Lund.mail; </para>
+>A documentação original do &kwrite; foi escrita por &Thad.McGinnis; &Thad.McGinnis.mail;, com diversas modificações de &Cristian.Tibirna; &Cristian.Tibirna.mail;. Foi revista e convertida para DocBook por &Lauri.Watts; &Lauri.Watts.mail; e atualizada por &Anne-Marie.Mahfouf; &Anne-Marie.Mahfouf.mail; e &Anders.Lund; &Anders.Lund.mail; </para>
 
 <para
 >A documentação atual do &katepart; é mantida por &TC.Hollingsworth; &TC.Hollingsworth.mail;. Por favor, envie seus comentários ou sugestões para a lista de discussão de desenvolvimento do &katepart; em <email

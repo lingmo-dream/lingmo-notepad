@@ -18,7 +18,7 @@
 >Vista general</title>
 
 <para
->L'editor de la &kappname; és l'àrea d'edició de la finestra de la &kappname;. Aquest editor és compartit entre el &kate; i el &notepad;, i es pot utilitzar en el &konqueror; per a mostrar fitxers de text des del vostre ordinador local o des de la xarxa.</para>
+>L'editor de la &kappname; és l'àrea d'edició de la finestra de la &kappname;. Aquest editor és compartit entre el &kate; i el &kwrite;, i es pot utilitzar en el &konqueror; per a mostrar fitxers de text des del vostre ordinador local o des de la xarxa.</para>
 
 <para
 >L'editor es compon dels següents components:</para>

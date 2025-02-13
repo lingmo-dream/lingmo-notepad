@@ -104,7 +104,7 @@
 <para
 >&kate; è l'editor di testo avanzato per &kde;. </para>
 <para
->&kate; fornisce anche il componente per la modifica del testo per varie applicazioni, con il nome &notepad;.</para>
+>&kate; fornisce anche il componente per la modifica del testo per varie applicazioni, con il nome &kwrite;.</para>
 <para
 >Alcune delle molte funzioni di &kate; includono l'evidenziazione della sintassi configurabile per molti linguaggi (da C e C++ ad &HTML;, a script bash), l'abilità di creare progetti e di fare manutenzione su di essi, un'interfaccia basata su documenti multipli (<acronym
 >MDI</acronym

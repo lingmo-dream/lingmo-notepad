@@ -301,7 +301,7 @@
 ></term>
 <listitem
 ><para
->&notepad;-Autor</para
+>&kwrite;-Autor</para
 ></listitem>
 </varlistentry>
 <varlistentry>
@@ -309,7 +309,7 @@
 >&Michael.Koch; &Michael.Koch.mail;</term>
 <listitem
 ><para
->Portierung von &notepad; nach &kparts;</para
+>Portierung von &kwrite; nach &kparts;</para
 ></listitem>
 </varlistentry>
 <varlistentry>
@@ -337,7 +337,7 @@
 ></term>
 <listitem
 ><para
->Funktion Rückgängig, Integration von KSpell in &notepad;</para
+>Funktion Rückgängig, Integration von KSpell in &kwrite;</para
 ></listitem>
 </varlistentry>
 <varlistentry>
@@ -347,7 +347,7 @@
 ></term>
 <listitem
 ><para
->Hervorhebung für &XML; in &notepad;</para
+>Hervorhebung für &XML; in &kwrite;</para
 ></listitem>
 </varlistentry>
 <varlistentry>

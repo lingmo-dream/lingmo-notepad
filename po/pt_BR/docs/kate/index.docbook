@@ -304,7 +304,7 @@ http://kate-editor.org/2012/11/02/using-the-projects-plugin-in-kate/
 ></term>
 <listitem
 ><para
->Autor do &notepad;</para
+>Autor do &kwrite;</para
 ></listitem>
 </varlistentry>
 <varlistentry>
@@ -312,7 +312,7 @@ http://kate-editor.org/2012/11/02/using-the-projects-plugin-in-kate/
 >&Michael.Koch; &Michael.Koch.mail;</term>
 <listitem
 ><para
->Conversão do &notepad; para KParts</para
+>Conversão do &kwrite; para KParts</para
 ></listitem>
 </varlistentry>
 <varlistentry>
@@ -340,7 +340,7 @@ http://kate-editor.org/2012/11/02/using-the-projects-plugin-in-kate/
 ></term>
 <listitem
 ><para
->Histórico do Desfazer do &notepad;, Integração com o KSpell</para
+>Histórico do Desfazer do &kwrite;, Integração com o KSpell</para
 ></listitem>
 </varlistentry>
 <varlistentry>
@@ -350,7 +350,7 @@ http://kate-editor.org/2012/11/02/using-the-projects-plugin-in-kate/
 ></term>
 <listitem
 ><para
->Suporte do realce de sintaxe de &XML; do &notepad;</para
+>Suporte do realce de sintaxe de &XML; do &kwrite;</para
 ></listitem>
 </varlistentry>
 <varlistentry>

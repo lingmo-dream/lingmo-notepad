@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <!DOCTYPE article PUBLIC "-//KDE//DTD DocBook XML V4.5-Based Variant V1.1//EN"
 "dtd/kdedbx45.dtd" [
-<!ENTITY kappname "&notepad;">
+<!ENTITY kappname "&kwrite;">
 <!ENTITY % Swedish "INCLUDE"
 > <!-- change language only here -->
 ]>
@@ -10,7 +10,7 @@
 
 <articleinfo>
 <title
->Handbok &notepad;</title>
+>Handbok &kwrite;</title>
 <authorgroup>
 <author
 >&TC.Hollingsworth; &TC.Hollingsworth.mail;</author>
@@ -51,7 +51,7 @@
 
 <abstract>
 <para
->&notepad; är en texteditor av &kde; som låter dig redigera en fil åt gången i varje fönster.</para>
+>&kwrite; är en texteditor av &kde; som låter dig redigera en fil åt gången i varje fönster.</para>
 </abstract>
 
 <keywordset>
@@ -72,12 +72,12 @@
 >Inledning</title>
 
 <para
->&notepad; är mer än en texteditor av &kde;. Den är avsedd som en editor för programmerare, och kan delvis anses som ett alternativ till mer kraftfulla editorer. Den kan vara bäst att använda tillsammans med &konqueror; eller &dolphin; för att bläddra i källkodsfiler med olika språk. &notepad; fungerar också mycket bra som en enkel texteditor. En av &notepad;s huvudfunktioner är syntaxfärgläggningen, som är anpassad för många olika programspråk som C/C++, &Java;, Python, Perl, Bash, Modula 2, &HTML; och Ada. &notepad; har ett gränssnitt för ett enda dokument (<acronym
+>&kwrite; är mer än en texteditor av &kde;. Den är avsedd som en editor för programmerare, och kan delvis anses som ett alternativ till mer kraftfulla editorer. Den kan vara bäst att använda tillsammans med &konqueror; eller &dolphin; för att bläddra i källkodsfiler med olika språk. &kwrite; fungerar också mycket bra som en enkel texteditor. En av &kwrite;s huvudfunktioner är syntaxfärgläggningen, som är anpassad för många olika programspråk som C/C++, &Java;, Python, Perl, Bash, Modula 2, &HTML; och Ada. &kwrite; har ett gränssnitt för ett enda dokument (<acronym
 >SDI</acronym
 >) vilket låter dig redigera en fil åt gången per fönster. </para>
 
 <para
->&notepad; är ett enkelt gränssnitt till komponenten &katepart; som också används av &kate;, &kdevelop;, och andra program från &kde; som kräver avancerad textredigering. Därför finns fullständig dokumentation av &notepad; i <ulink url="help:/katepart"
+>&kwrite; är ett enkelt gränssnitt till komponenten &katepart; som också används av &kate;, &kdevelop;, och andra program från &kde; som kräver avancerad textredigering. Därför finns fullständig dokumentation av &kwrite; i <ulink url="help:/katepart"
 >Handbok &katepart;</ulink
 >. </para>
 </sect1>
@@ -87,7 +87,7 @@
 >Kommandoradsväljare</title>
 
 <para
->Även om &notepad; oftast startas från &plasma;:s programstart, eller en skrivbordsikon, kan det också köras från kommandoraden i ett terminalfönster. Det finns ett antal användbara väljare som är tillgängliga när detta görs. </para>
+>Även om &kwrite; oftast startas från &plasma;:s programstart, eller en skrivbordsikon, kan det också köras från kommandoraden i ett terminalfönster. Det finns ett antal användbara väljare som är tillgängliga när detta görs. </para>
 
 <para
 >Många andra program som använder &katepart; erbjuder liknande alternativ på kommandoraden.</para>
@@ -97,7 +97,7 @@
 >Ange en fil</title>
 
 <para
->Genom att ange sökvägen och namnet på en viss fil kan användaren låta &notepad; öppna (eller skapa) filen omedelbart vid start. Väljaren kan se ut ungefär på följande sätt:</para>
+>Genom att ange sökvägen och namnet på en viss fil kan användaren låta &kwrite; öppna (eller skapa) filen omedelbart vid start. Väljaren kan se ut ungefär på följande sätt:</para>
 
 <informalexample
 ><screen
@@ -175,7 +175,7 @@
 ></term>
 <listitem
 ><para
->Visar &notepad;s upphovsmän i terminalfönstret.</para
+>Visar &kwrite;s upphovsmän i terminalfönstret.</para
 ></listitem>
 </varlistentry>
 <varlistentry>
@@ -247,7 +247,7 @@
 ></term>
 <listitem
 ><para
->Gör att &notepad; använder angiven kodning för dokumentet. </para
+>Gör att &kwrite; använder angiven kodning för dokumentet. </para
 ></listitem>
 </varlistentry>
 
@@ -302,9 +302,9 @@
 ></term>
 <listitem
 ><para
->Gör att &notepad; läser dokumentets innehåll från standardinmatningen. Det liknar den vanliga väljaren <option
+>Gör att &kwrite; läser dokumentets innehåll från standardinmatningen. Det liknar den vanliga väljaren <option
 >-</option
-> som används av många kommandoradsprogram, och låter dig skicka utdata från ett kommando till &notepad; via en rörledning.</para
+> som används av många kommandoradsprogram, och låter dig skicka utdata från ett kommando till &kwrite; via en rörledning.</para
 ></listitem>
 </varlistentry>
 
@@ -317,10 +317,10 @@
 >Tack till och licens</title>
 
 <para
->&notepad; Copyright 2001-2014 av &kate;-gruppen.</para>
+>&kwrite; Copyright 2001-2014 av &kate;-gruppen.</para>
 
 <para
->Baserad på den ursprungliga &notepad;, som var copyright 2000 av Jochen Wilhelmy <email
+>Baserad på den ursprungliga &kwrite;, som var copyright 2000 av Jochen Wilhelmy <email
 >digisnap@cs.tu-berlin.de</email
 > </para>
 

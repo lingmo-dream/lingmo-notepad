@@ -81,11 +81,11 @@ editors. One of &katepart;'s main features is the colorized syntax, customized
 for many different programming languages such as: C/C++, &Java;, Python, Perl,
 Bash, Modula 2, &HTML;, and Ada.
 </para>
-<para>&notepad; is a simple text editor application based on &katepart;.  It has
+<para>&kwrite; is a simple text editor application based on &katepart;.  It has
 a single document interface (<acronym>SDI</acronym>) allowing you to edit one
-file at the time per window.  Since &notepad; is a very simple implementation of
+file at the time per window.  Since &kwrite; is a very simple implementation of
 &katepart;, it does not require its own documentation.  If you know how to use
-&notepad;, you can use &katepart; anywhere!
+&kwrite;, you can use &katepart; anywhere!
 </para>
 </chapter>
 
@@ -104,10 +104,10 @@ file at the time per window.  Since &notepad; is a very simple implementation of
 <chapter id="credits">
 <title>Credits and License</title>
 
-<para>&katepart; and &notepad; Copyright 2001-2022 by the &kate; team.</para>
+<para>&katepart; and &kwrite; Copyright 2001-2022 by the &kate; team.</para>
 
 <para>
-Based on the original &notepad;, which was Copyright 2000 by Jochen Wilhelmy
+Based on the original &kwrite;, which was Copyright 2000 by Jochen Wilhelmy
 <email>digisnap@cs.tu-berlin.de</email>
 </para>
 
@@ -172,12 +172,12 @@ Based on the original &notepad;, which was Copyright 2000 by Jochen Wilhelmy
 </itemizedlist>
 
 <para>
-The &katepart; documentation is based on the original &notepad; documentation,
+The &katepart; documentation is based on the original &kwrite; documentation,
 modified to be relevant to all &katepart; consumers.
 </para>
 
 <para>
-The original &notepad; documentation was written by &Thad.McGinnis;
+The original &kwrite; documentation was written by &Thad.McGinnis;
 &Thad.McGinnis.mail;, with lots of modifications from
 &Cristian.Tibirna; &Cristian.Tibirna.mail;. Converted to docbook/proofreading by
 &Lauri.Watts; &Lauri.Watts.mail; and updated by &Anne-Marie.Mahfouf;

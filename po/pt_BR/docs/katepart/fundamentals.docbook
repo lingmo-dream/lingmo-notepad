@@ -3,7 +3,7 @@
 >Alguns Fundamentos</title>
 
 <para
->O &notepad; e várias outras utilizações do &katepart; são muito simples de usar. Qualquer pessoa que já usou um editor de texto não deverá ter problemas. </para>
+>O &kwrite; e várias outras utilizações do &katepart; são muito simples de usar. Qualquer pessoa que já usou um editor de texto não deverá ter problemas. </para>
 
 <sect1 id="drag-and-drop">
 <title
@@ -18,7 +18,7 @@
 >Opções de Linha de Comando</title>
 
 <para
->Embora o &notepad; possa ser geralmente iniciado a partir do menu de programas do &kde; ou de um ícone da área de trabalho, ele poderá ser aberto a partir da linha de comando de uma janela de terminal. Existem algumas opções úteis que estão disponíveis ao fazer isto. </para>
+>Embora o &kwrite; possa ser geralmente iniciado a partir do menu de programas do &kde; ou de um ícone da área de trabalho, ele poderá ser aberto a partir da linha de comando de uma janela de terminal. Existem algumas opções úteis que estão disponíveis ao fazer isto. </para>
 
 <para
 >Muitos outros aplicativos que usam o &katepart; oferecem opções de linha de comando similares.</para>
@@ -28,7 +28,7 @@
 >Especificar um Arquivo</title>
 
 <para
->Especificando o caminho e nome de um arquivo específico o usuário pode fazer com que o &notepad; abra (ou crie) este arquivo imediatamente após iniciar. Esta opção pode parecer algo como o seguinte:</para>
+>Especificando o caminho e nome de um arquivo específico o usuário pode fazer com que o &kwrite; abra (ou crie) este arquivo imediatamente após iniciar. Esta opção pode parecer algo como o seguinte:</para>
 
 <informalexample
 ><screen
@@ -104,7 +104,7 @@
 ></term>
 <listitem
 ><para
->Isto lista as opções disponíveis para mudar a maneira como o &notepad; interage com o &Qt;.</para
+>Isto lista as opções disponíveis para mudar a maneira como o &kwrite; interage com o &Qt;.</para
 ></listitem>
 </varlistentry>
 <varlistentry>
@@ -118,7 +118,7 @@
 ></term>
 <listitem
 ><para
->Isto lista as opções disponíveis para mudar a maneira com o &notepad; interage com o &kde;.</para
+>Isto lista as opções disponíveis para mudar a maneira com o &kwrite; interage com o &kde;.</para
 ></listitem>
 </varlistentry>
 <varlistentry>
@@ -146,7 +146,7 @@
 ></term>
 <listitem
 ><para
->Lista o autor do &notepad; na janela do terminal</para
+>Lista o autor do &kwrite; na janela do terminal</para
 ></listitem>
 </varlistentry>
 <varlistentry>
@@ -160,7 +160,7 @@
 ></term>
 <listitem
 ><para
->Lista as informações de versão do &Qt;, do &kde; e do &notepad;. Também está disponível como <userinput
+>Lista as informações de versão do &Qt;, do &kde; e do &kwrite;. Também está disponível como <userinput
 ><command
 >notepad</command
 > <option
@@ -173,7 +173,7 @@
 <term
 ><userinput
 ><command
->&notepad;</command
+>&kwrite;</command
 > <option
 >--license</option
 ></userinput
@@ -194,9 +194,9 @@
 ></term>
 <listitem
 ><para
->Faz com que o &notepad; leia o conteúdo do documento a partir do STDIN. Isto é semelhante à opção comum <option
+>Faz com que o &kwrite; leia o conteúdo do documento a partir do STDIN. Isto é semelhante à opção comum <option
 >-</option
->, que é usada em muitos programas de linha de comando, permitindo-lhe encaminhar o resultado dos comandos para o &notepad;.</para
+>, que é usada em muitos programas de linha de comando, permitindo-lhe encaminhar o resultado dos comandos para o &kwrite;.</para
 ></listitem>
 </varlistentry>
 <varlistentry>
@@ -214,7 +214,7 @@
 ></term>
 <listitem
 ><para
->Faz com que o &notepad; use a codificação indicada para o documento. </para
+>Faz com que o &kwrite; use a codificação indicada para o documento. </para
 ></listitem>
 </varlistentry>
 <varlistentry>

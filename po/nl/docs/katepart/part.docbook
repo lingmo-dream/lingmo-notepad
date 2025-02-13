@@ -18,7 +18,7 @@
 >Overzicht</title>
 
 <para
->De editor van &kappname; is het editor-gedeelte in het venster van &kappname;. Deze editor wordt gedeeld tussen &kate; en &notepad; en kan ook in &konqueror; gebruikt worden om tekstbestanden, vanaf de lokale computer of vanaf het netwerk, weer te geven.</para>
+>De editor van &kappname; is het editor-gedeelte in het venster van &kappname;. Deze editor wordt gedeeld tussen &kate; en &kwrite; en kan ook in &konqueror; gebruikt worden om tekstbestanden, vanaf de lokale computer of vanaf het netwerk, weer te geven.</para>
 
 <para
 >De editor bestaat uit de volgende componenten:</para>

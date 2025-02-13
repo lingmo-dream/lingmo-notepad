@@ -2092,7 +2092,7 @@
 >. Dit is onderdeel van &kde; &frameworks; en wordt in &kde; tekstbewerkers gebruikt zoals <ulink url="https://apps.kde.org/en/kate"
 >&kate;</ulink
 >, <ulink url="https://apps.kde.org/en/notepad"
->&notepad;</ulink
+>&kwrite;</ulink
 >, <ulink url="https://apps.kde.org/en/kile"
 >&kile;</ulink
 > en <ulink url="https://apps.kde.org/en/kdevelop"

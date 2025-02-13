@@ -1315,7 +1315,7 @@ framework, which is the <link linkend="highlight">syntax highlighting</link> eng
 is the library that <userinput>provides and manages the color themes</userinput>.
 This is part of &kde; &frameworks; and is used in &kde; text editors such as
 <ulink url="https://apps.kde.org/en/kate">&kate;</ulink>,
-<ulink url="https://apps.kde.org/en/notepad">&notepad;</ulink>,
+<ulink url="https://apps.kde.org/en/notepad">&kwrite;</ulink>,
 <ulink url="https://apps.kde.org/en/kile">&kile;</ulink> and
 <ulink url="https://apps.kde.org/en/kdevelop">&kdevelop;</ulink>.
 This dependency looks like the following:</para>
